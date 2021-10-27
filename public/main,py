@@ -1,0 +1,7 @@
+print("Practice")
+
+birth=2000
+
+if birth==2000:
+    print("2000年生まれですね？")
+
