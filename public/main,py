@@ -1,7 +1,18 @@
 print("Practice")
 
 birth=2000
+man=1
+woman=2
 
 if birth==2000:
     print("2000年生まれですね？")
+
+if man==1:
+    print("あなたは男性です。")
+
+elif woman==2:
+    print("あなたは女性です。")
+
+else:
+    print("あなたは回答したくないと答えました。")
 
